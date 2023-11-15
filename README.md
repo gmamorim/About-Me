@@ -36,7 +36,8 @@ I hold various certifications, including:
 
 Here, you'll find a collection of my projects, scripts, and code samples related to cloud computing, infrastructure management, and more. 
 Feel free to explore, contribute, or collaborate on any of the repositories.
-- [Exchange Online Scripts](https://github.com/gmamorim/ExchangeOnline)
+- [PowerShell Scripts](https://github.com/gmamorim/pwsh-scripts)
+  - [Exchange Online](https://github.com/gmamorim/pwsh-scripts/tree/main/ExchangeOnline) 
 
 ## Get in Touch
 
