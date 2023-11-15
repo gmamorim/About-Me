@@ -34,7 +34,9 @@ I hold various certifications, including:
 
 ## My GitHub
 
-Here, you'll find a collection of my projects, scripts, and code samples related to cloud computing, infrastructure management, and more. Feel free to explore, contribute, or collaborate on any of the repositories.
+Here, you'll find a collection of my projects, scripts, and code samples related to cloud computing, infrastructure management, and more. 
+Feel free to explore, contribute, or collaborate on any of the repositories.
+- [Exchange Online Scripts](https://github.com/gmamorim/ExchangeOnline)
 
 ## Get in Touch
 
