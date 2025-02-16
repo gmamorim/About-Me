@@ -32,13 +32,6 @@ I hold various certifications, including:
 - MCSE – Microsoft Certified Solutions Expert (Productivity: Exchange Server 2016)
 - Google Cloud Certified - Associate Cloud Engineer
 
-## My GitHub
-
-Here, you'll find a collection of my projects, scripts, and code samples related to cloud computing, infrastructure management, and more. 
-Feel free to explore, contribute, or collaborate on any of the repositories.
-- [PowerShell Scripts](https://github.com/gmamorim/pwsh-scripts)
-  - [Exchange Online](https://github.com/gmamorim/pwsh-scripts/tree/main/ExchangeOnline) 
-
 ## Get in Touch
 
 I'm always open to connecting with fellow tech enthusiasts, discussing potential collaborations, or just chatting about all things IT. Feel free to drop me a message or connect with me on LinkedIn!
